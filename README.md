@@ -76,6 +76,12 @@ Tính năng ghi âm yêu cầu sử dụng thư viện `pyaudio`. Để cài đ�
 uv add pyaudio
 ```
 
+#### Thư Viện Phát Video (libmpv)
+Ứng dụng sử dụng `libmpv` để xử lý video và âm thanh. Do kích thước file thư viện lớn, bạn cần tải riêng:
+1. Truy cập mục **[Releases](https://github.com/hieu-gui-tools/ung_dung_hoc_tap/releases)** của dự án.
+2. Tải file `libmpv-2.zip` về và giải nén.
+3. Đặt file `libmpv-2.dll` vào thư mục gốc của dự án (cùng cấp với file `main.py`).
+
 #### Xử Lý Video & Tải File
 - Video từ YouTube tải qua `yt-dlp` sẽ được lưu trữ tự động vào mục `media/video/`.
 - File âm thanh TTS mặc định lưu tại `media/audio/`.
