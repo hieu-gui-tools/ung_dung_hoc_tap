@@ -1,0 +1,55 @@
+--- Table 0 ---
+Từ vựng | Phiên âm (IPA) | Loại từ | Nghĩa tiếng Việt | Ví dụ trong câu
+Ecstatic | /ɪkˈstætɪk/ | adj | Vô cùng hạnh phúc, ngây ngất | She was ecstatic to hear that she had won the scholarship.
+Jubilant | /ˈdʒuːbɪlənt/ | adj | Vui sướng, hân hoan (vì chiến thắng) | The fans were jubilant after their team won the championship.
+Elated | /ɪˈleɪtɪd/ | adj | Phấn khởi, phấn chấn | He was elated by the news of his promotion.
+Thrilled | /θrɪld/ | adj | Hồi hộp, vui sướng | I was thrilled to meet my favorite author in person.
+Overjoyed | /ˌəʊvərˈdʒɔɪd/ | adj | Cực kỳ vui mừng | They were overjoyed at the birth of their first child.
+Cheerful | /ˈtʃɪəfəl/ | adj | Vui vẻ, phấn khởi | He has a very cheerful personality and always smiles.
+Delighted | /dɪˈlaɪtɪd/ | adj | Rất vui, hài lòng | We were delighted with the excellent service at the hotel.
+Enthusiastic | /ɪnˌθjuːziˈæstɪk/ | adj | Hăng hái, nhiệt tình | She is very enthusiastic about her new project.
+Optimistic | /ˌɒptɪˈmɪstɪk/ | adj | Lạc quan | Despite the challenges, he remains optimistic about the future.
+Grateful | /ˈɡreɪtfəl/ | adj | Biết ơn | I am very grateful for all the help you’ve given me.
+Proud | /praʊd/ | adj | Tự hào, hãnh diện | His parents were very proud of his academic achievements.
+Confident | /ˈkɒnfɪdənt/ | adj | Tự tin | She felt confident about her chances of winning the competition.
+Hopeful | /ˈhəʊpfəl/ | adj | Đầy hy vọng | We are hopeful that the situation will improve soon.
+Content | /kənˈtent/ | adj | Hài lòng, mãn nguyện | He is content with his simple life in the countryside.
+Serene | /səˈriːn/ | adj | Thanh thản, bình yên | The lake was serene and peaceful in the early morning.
+Relaxed | /rɪˈlækst/ | adj | Thư giãn, thoải mái | After a long week of work, she felt completely relaxed.
+Amused | /əˈmjuːzd/ | adj | Vui vẻ, thích thú | He was amused by the children’s silly jokes.
+--- Table 1 ---
+Từ vựng | Phiên âm (IPA) | Loại từ | Nghĩa tiếng Việt | Ví dụ trong câu
+Devastated | /ˈdevəsteɪtɪd/ | adj | Suy sụp, tan nát | She was devastated by the loss of her beloved pet.
+Miserable | /ˈmɪzərəbəl/ | adj | Khốn khổ, đau khổ | I felt miserable after failing the exam.
+Furious | /ˈfjʊəriəs/ | adj | Giận dữ, điên tiết | He was furious when he discovered his car had been stolen.
+Anxious | /ˈæŋkʃəs/ | adj | Lo lắng, bồn chồn | She felt anxious about the upcoming job interview.
+Apprehensive | /ˌæprɪˈhensɪv/ | adj | E ngại, sợ hãi (về điều gì sắp xảy ra) | I’m a bit apprehensive about moving to a new city.
+Terrified | /ˈterɪfaɪd/ | adj | Khiếp sợ, kinh hãi | The child was terrified of the dark.
+Frustrated | /frʌˈstreɪtɪd/ | adj | Bực bội, nản lòng | He became frustrated when he couldn’t solve the puzzle.
+Disappointed | /ˌdɪsəˈpɔɪntɪd/ | adj | Thất vọng | We were disappointed that the concert was cancelled.
+Ashamed | /əˈʃeɪmd/ | adj | Xấu hổ, hổ thẹn | He was ashamed of his rude behavior.
+Jealous | /ˈdʒeləs/ | adj | Ghen tị, đố kỵ (với những gì mình có thể mất) | He felt jealous when his girlfriend talked to other boys.
+Envious | /ˈenviəs/ | adj | Thèm muốn, ghen tị (với những gì người khác có) | He was envious of his brother’s new car.
+Pessimistic | /ˌpesɪˈmɪstɪk/ | adj | Bi quan | She has a pessimistic view of the world.
+Lonely | /ˈləʊnli/ | adj | Cô đơn, lẻ loi | He felt lonely after his friends moved away.
+Guilty | /ˈɡɪlti/ | adj | Cảm thấy tội lỗi | She felt guilty for forgetting her mother’s birthday.
+Overwhelmed | /ˌəʊvərˈwelmd/ | adj | Bị choáng ngợp, quá tải | As a new manager, she felt overwhelmed with responsibilities.
+Bewildered | /bɪˈwɪldərd/ | adj | Rất bối rối, hoang mang | He was bewildered by the sudden change of plans.
+Seething | /ˈsiːðɪŋ/ | adj | Sôi sục (nhưng kìm nén sự tức giận) | She was seething with anger but managed to keep a calm expression.
+Upset | /ʌpˈset/ | adj | Buồn bã, khó chịu | She was upset to hear that she didn’t get the job.
+--- Table 2 ---
+Cụm từ (Idiom/Phrase) | Nghĩa tiếng Việt | Ví dụ trong câu
+Over the moon | Vô cùng vui sướng | She was over the moon when Tim gave her a diamond ring.
+Thrilled to bits | Cực kỳ hài lòng | My mother was thrilled to bits with my results at school.
+On cloud nine | Hạnh phúc như ở trên mây | When they got married, they were on cloud nine for several months.
+To live in a fool’s paradise | Sống trong hạnh phúc ảo tưởng | Stop living in a fool’s paradise; you know that problem won’t solve itself.
+To puzzle over sth | Băn khoăn, cố tìm hiểu điều gì đó | He’s still puzzling over the strange phone call he received at midnight.
+To be ambivalent about sth | Mâu thuẫn, vừa yêu vừa ghét | Kevin was ambivalent about taking the offer to move to Vietnam.
+Be at the end of your rope | Hết kiên nhẫn, hết sức chịu đựng | After hours of trying to fix the computer, I was at the end of my rope.
+To bite someone’s head off | Gắt gỏng, nổi giận vô cớ | I only asked a simple question; you didn’t have to bite my head off.
+Be in a black mood | Tâm trạng tồi tệ, dễ cáu kỉnh | Don’t talk to him today; he’s in a black mood.
+To be petrified of | Sợ điếng người, hóa đá vì sợ | My sister is absolutely petrified of spiders.
+To feel down in the dumps | Cảm thấy buồn bã, chán nản | She’s been a bit down in the dumps since she lost her job.
+To be on edge | Căng thẳng, lo lắng, dễ bực mình | He’s been on edge all week waiting for his exam results.
+To bottle up one’s feelings | Kìm nén, che giấu cảm xúc | It’s not healthy to bottle up your feelings all the time.
+To get worked up | Trở nên tức giận hoặc lo lắng | There’s no point getting worked up about things you can’t change.

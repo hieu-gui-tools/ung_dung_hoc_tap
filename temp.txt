@@ -1,0 +1,36 @@
+336:         self.inp_hinhanh = QLineEdit()
+337:         self.inp_hinhanh.setPlaceholderText("Đường dẫn hoặc URL ảnh (tùy chọn)...")
+339:         btn_browse_img.clicked.connect(self._browse_image)
+341:         btn_download_img.clicked.connect(self._download_image_from_url)
+343:         hinh_anh_layout = QHBoxLayout()
+344:         hinh_anh_layout.addWidget(self.inp_hinhanh)
+345:         hinh_anh_layout.addWidget(btn_browse_img)
+346:         hinh_anh_layout.addWidget(btn_download_img)
+356:         form.addRow("Hình ảnh:", hinh_anh_layout)
+381:             if hasattr(q, "hinh_anh"):
+382:                 self.inp_hinhanh.setText(q.hinh_anh)
+442:     def _browse_image(self):
+443:         path, _ = QFileDialog.getOpenFileName(self, "Chọn ảnh", "", "Images (*.png *.jpg *.jpeg *.bmp *.gif)")
+445:             self.inp_hinhanh.setText(path)
+447:     def _download_image_from_url(self):
+448:         url = self.inp_hinhanh.text().strip()
+466:             # Đảm bảo thư mục media/images tồn tại
+468:             media_dir = os.path.join(base_dir, "media", "images")
+479:             self.inp_hinhanh.setText(filepath)
+509:             "hinh_anh":   self.inp_hinhanh.text().strip(),
+847:         # Image Label
+848:         self.lbl_image = QLabel("")
+849:         self.lbl_image.setAlignment(Qt.AlignmentFlag.AlignCenter)
+850:         self.lbl_image.hide()
+851:         rv.addWidget(self.lbl_image)
+989:                 "id": q.id, "noi_dung": q.noi_dung, "hinh_anh": q.hinh_anh,
+1141:         # Display Image if exists
+1142:         hinh_anh = q.get("hinh_anh")
+1143:         if hinh_anh:
+1144:             pixmap = QPixmap(hinh_anh)
+1146:                 self.lbl_image.setPixmap(pixmap.scaledToHeight(200, Qt.TransformationMode.SmoothTransformation))
+1147:                 self.lbl_image.show()
+1149:                 self.lbl_image.hide()
+1151:             self.lbl_image.hide()
+1560:                     "hinh_anh": q.get("hinh_anh") or "",
+1623:                 "hinh_anh": (item.get("hinh_anh") or "").strip(),
