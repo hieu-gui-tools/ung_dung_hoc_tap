@@ -59,3 +59,33 @@ media/
 *.zip
 *.log
 *.dll
+
+# Scratch, test and scraper scripts
+test_*.py
+scrape*.py
+fetch_*.py
+extract*.py
+analyze_*.py
+check_*.py
+find_*.py
+import_*.py
+fix*.py
+search_*.py
+download_*.py
+ddg_search.py
+dump_links.py
+filter_links.py
+format_js.py
+insert_synthetic_b1.py
+make_relative.py
+view_getresult.py
+settings_patch.py
+
+# Temporary and generated data files
+/*.txt
+!/requirements.txt
+!/CMakeLists.txt
+/*.html
+/*.js
+/*.json
+*.lnk
